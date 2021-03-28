@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hello, Pals!
+
+Coffee Break here! I love coffee and music while coding.
+I'm an introvert. Hello, Pals, Goodbye!
